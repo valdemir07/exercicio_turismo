@@ -1,0 +1,46 @@
+nav {
+    background-color: #ccecec80;
+
+}
+
+.cabcalho-menu-item {
+
+    font-family: 'Anton', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 50px;
+
+}
+
+
+div {
+    background-color: #e0e5e6;
+    width: 500px;
+    padding: 50px;
+    margin: 20px;
+    float: center;
+}
+
+body {
+    background-image: url('/imagens/background/AdobeStock_291217289-copy.jpg');
+
+}
+
+.coluna_aside {
+    position:absolute;
+    top: 10%;
+    width: 95%;
+    text-align: right;
+    font-size: 18px;
+    float: right;
+}
+
+.titulo-aside {
+    font-family: 'Anton', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+   
+}
+
+.texto-lista-aside {
+    
+    
+}
